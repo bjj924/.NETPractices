@@ -1,0 +1,23 @@
+c:\users\braian joho\documents\visual studio 2015\Projects\JoyPadForm\JoyPadForm\bin\Debug\JoyPadForm.exe.config
+c:\users\braian joho\documents\visual studio 2015\Projects\JoyPadForm\JoyPadForm\bin\Debug\JoyPadForm.exe
+c:\users\braian joho\documents\visual studio 2015\Projects\JoyPadForm\JoyPadForm\bin\Debug\JoyPadForm.pdb
+c:\users\braian joho\documents\visual studio 2015\Projects\JoyPadForm\JoyPadForm\bin\Debug\SlimDX.dll
+c:\users\braian joho\documents\visual studio 2015\Projects\JoyPadForm\JoyPadForm\obj\Debug\JoyPadForm.csprojResolveAssemblyReference.cache
+c:\users\braian joho\documents\visual studio 2015\Projects\JoyPadForm\JoyPadForm\obj\Debug\JoyPadForm.Form1.resources
+c:\users\braian joho\documents\visual studio 2015\Projects\JoyPadForm\JoyPadForm\obj\Debug\JoyPadForm.Properties.Resources.resources
+c:\users\braian joho\documents\visual studio 2015\Projects\JoyPadForm\JoyPadForm\obj\Debug\JoyPadForm.csproj.GenerateResource.Cache
+c:\users\braian joho\documents\visual studio 2015\Projects\JoyPadForm\JoyPadForm\obj\Debug\JoyPadForm.exe
+c:\users\braian joho\documents\visual studio 2015\Projects\JoyPadForm\JoyPadForm\obj\Debug\JoyPadForm.pdb
+C:\Users\Braian Joho\NetPractices\JoyPadForm\JoyPadForm\bin\Debug\JoyPadForm.exe.config
+C:\Users\Braian Joho\NetPractices\JoyPadForm\JoyPadForm\bin\Debug\JoyPadForm.exe
+C:\Users\Braian Joho\NetPractices\JoyPadForm\JoyPadForm\bin\Debug\JoyPadForm.pdb
+C:\Users\Braian Joho\NetPractices\JoyPadForm\JoyPadForm\bin\Debug\SlimDX.dll
+C:\Users\Braian Joho\NetPractices\JoyPadForm\JoyPadForm\obj\Debug\JoyPadForm.csprojResolveAssemblyReference.cache
+C:\Users\Braian Joho\NetPractices\JoyPadForm\JoyPadForm\obj\Debug\JoyPadForm.Form1.resources
+C:\Users\Braian Joho\NetPractices\JoyPadForm\JoyPadForm\obj\Debug\JoyPadForm.Properties.Resources.resources
+C:\Users\Braian Joho\NetPractices\JoyPadForm\JoyPadForm\obj\Debug\JoyPadForm.csproj.GenerateResource.Cache
+C:\Users\Braian Joho\NetPractices\JoyPadForm\JoyPadForm\obj\Debug\JoyPadForm.exe
+C:\Users\Braian Joho\NetPractices\JoyPadForm\JoyPadForm\obj\Debug\JoyPadForm.pdb
+C:\Users\Braian Joho\NetPractices\.NETPractices\JoyPadForm\JoyPadForm\bin\Debug\JoyPadForm.exe.config
+C:\Users\Braian Joho\NetPractices\.NETPractices\JoyPadForm\JoyPadForm\obj\Debug\JoyPadForm.exe
+C:\Users\Braian Joho\NetPractices\.NETPractices\JoyPadForm\JoyPadForm\obj\Debug\JoyPadForm.pdb
